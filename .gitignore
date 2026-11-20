@@ -7,3 +7,9 @@ venv/
 ~$*
 Thumbs.db
 .DS_Store
+
+# Input workbooks supplied separately with the article
+/game-theory.xlsx
+/game-theory-purdue.xlsx
+/casedata1_game-theory.xlsx
+/casedata2_game-theory-purdue.xlsx
